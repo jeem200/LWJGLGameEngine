@@ -1,0 +1,82 @@
+# Blender MTL File: 'None'
+# Material Count: 8
+
+newmtl Bark___0
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.439216 0.307451 0.257255
+Ks 0.498039 0.480392 0.425490
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\no\Downloads\Tree9\trees9\Bark___0.jpg
+
+newmtl Bark___1
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.354510 0.244706 0.185098
+Ks 0.498039 0.480392 0.425490
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\no\Downloads\Tree9\trees9\Bark___1.jpg
+
+newmtl Bark___S
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.194510 0.138039 0.172549
+Ks 0.498039 0.480392 0.425490
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\no\Downloads\Tree9\trees9\Bark___S.jpg
+
+newmtl Bottom_T
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.489412 0.285490 0.207059
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\no\Downloads\Tree9\trees9\Bottom_T.jpg
+
+newmtl Mossy_Tr
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.426667 0.392157 0.351373
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\no\Downloads\Tree9\trees9\Mossy_Tr.jpg
+
+newmtl Oak_Leav
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.147451 0.241569 0.122353
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\no\Downloads\Tree9\trees9\Oak_Leav.jpg
+
+newmtl Sonnerat
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.250980 0.266667 0.147451
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\no\Downloads\Tree9\trees9\Sonnerat.jpg
+
+newmtl Walnut_L
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.621176 0.417255 0.185098
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\no\Downloads\Tree9\trees9\Walnut_L.jpg
