@@ -26,9 +26,10 @@ This is a game engine developed in LWJGL library. It is a java library for OpenG
 
 ![alt text](Buildr's Guild/Untitled6.jpg "Batman in the jungle!")
 
-- All of the 3d Models were obtained from tf3dm.com. And all of those were UV Mapped by me. All the 3D models had to be optimized By hand - the edge and face counts had to be reduced to run efficiently in the Game. The decimate plugin of Blender helped us a lot in optimizing more
+- All of the 3d Models were obtained from tf3dm.com. And all of those were UV Mapped by me. All the 3D models had to be optimized By hand - the edge and face counts had to be reduced to run efficiently in the Game. The decimate plugin of Blender helped us a lot in optimizing more.
 
 ![alt text](Buildr's Guild/Untitled7.jpg "Batman in the jungle!")
+![alt text](Buildr's Guild/Untitled8.jpg "Batman in the jungle!")
 
 The game was developed using the Modern OpenGL. Which is very much dependent on shading language. I had to learn the OpenGL Shading Language to complete the game in Modern OpenGL. The fact that I used Java as my preferred language changes very little about how the game was developed in Modern OpenGL and GLSL. Mostly the fact that the LWJGL library includes OpenGL ES Binding, Objective-c binding, GLFW and even OpenCL Binding contributed in my choice. I liked the way this library feels compact and reliable.
 
