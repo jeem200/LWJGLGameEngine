@@ -26,7 +26,7 @@ This is a game engine developed in LWJGL library. It is a java library for OpenG
 
 ![alt text](Buildr's Guild/Untitled6.jpg "Batman in the jungle!")
 
-- All of the 3d Models were obtained from tf3dm.com. And all of those were UV Mapped by me. All the 3D models had to be optimized By hand - the edge and face counts had to be reduced to run efficiently in the Game. The decimate plugin of Blender helped us a lot in optimizing more.
+- All of the 3d Models were obtained from tf3dm.com. And all of those were UV Mapped by me. All the 3D models had to be optimized By hand - the edge and face counts had to be reduced to run efficiently in the Game. The decimate plugin of Blender helped us a lot in optimizing more
 
 ![alt text](Buildr's Guild/Untitled7.jpg "Batman in the jungle!")
 
