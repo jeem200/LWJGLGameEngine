@@ -4,7 +4,7 @@ This is a game engine developed in LWJGL library. It is a java library for OpenG
 - This game contains a Large Terrain, With Chunk Size 4*4, With every chunk sizing 800*800 unit.
 
 
-[alt text](Buildr's Guild/Untitled.png "Batman in the jungle!")
+![alt text](Buildr's Guild/Untitled.png)
 
 - FOG is implemented throughout the game world. The fog illusion was created by changing the color value of vertexes more like the color value of the sky as the object gains distance from the camera.
 
